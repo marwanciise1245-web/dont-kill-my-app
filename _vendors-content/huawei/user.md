@@ -1,4 +1,4 @@
----
+94043---
 manufacturer:
     - huawei
 
